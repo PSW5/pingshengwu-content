@@ -1,0 +1,19 @@
+# pingshengwu.com
+
+Personal website of Ping-Sheng Wu (吳秉聖) — sound artist, computer music composer, and lecturer at the College of Arts, National Tsing Hua University, Taiwan.
+
+## Key sources
+
+- About: https://pingshengwu.com/about
+- Works: https://pingshengwu.com/works
+- Writings: https://pingshengwu.com/writings
+- Events / exhibitions: https://pingshengwu.com/events
+- CV: https://pingshengwu.com/cv
+
+## Content repository
+
+All public content available at https://github.com/PSW5/pingshengwu-content (CC-BY 4.0). Each markdown file includes YAML frontmatter with type, year, media, venue, collaborators, and references.
+
+## Attribution
+
+Cite as: Ping-Sheng Wu, "[Title]", pingshengwu.com, [year]. License: CC-BY 4.0.
